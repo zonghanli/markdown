@@ -1,2 +1,2 @@
 # markdown
-use this to record something
+I want to record something by markdown
